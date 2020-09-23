@@ -16,5 +16,7 @@
                 </FormattedString>
             </Label.FormattedText>
         </Label>
+        <Button Clicked="Button_Clicked" Text="Send Message"/>
+        <Button Text="Open LinkedIn" Clicked="Button_Clicked_1"/>
     </StackLayout>
 </ContentPage>
